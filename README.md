@@ -21,7 +21,19 @@ An ancestry consists of shared physical traits shared between your character and
 The Homonis are versatile and driven people
 
 ### Traits
-#### Physical Form
-The Homonis are bipedal dwellers made of flesh and blood like most mortal beings. They possess two arms, their skin tones range from a pale white to a . They achieve maturity at around the age of 20 
+#### Physical Characteristics
+The Homonis are bipedal dwellers made of flesh and blood like most. Built to mimic the form of their creators, they possess two arms and have rounded ears but unlike the Immanis, their skin tones only range from a pale white to a dark brown which is a trait that developed over millennia based on how their skin was subjected to the light of the **Great Star**. They achieve physical maturity in their mid to late teen years and live to be as old as about a century.
+
 #### Alignment
+Due to the influence of **Him** on their species, they are from a young age guided to be **Lawful** and their **Karma** wildly varies from individual to individual, some taking undeniably evil actions for the sake of their duties within the empire while others spread love, compassion and forgiveness even with the dwellers whose faith does not lie with Him. Even so there are some outliers that due to a variety of circumstances can become corrupted into becoming the most wicked dwellers.
+
+It also bears mentioning that one of the following **heritages** actively goes against the teachings of **Him** and everything that he stands for. This will be discussed in further detail in that heritage's section. 
+
 #### Names
+Their forebears, the Immanis, didn't believe in granting names to their creations as a name is a source of power and individuality, which the titans refused to cede to the Homonis. Once they lost their creators, the Homonis started naming each other, if only out of convinience, which led them to learn and pick up the names that their creators once used, which led to them sharing given names with most other cultures as the Immanis had gotten their own names from the Primordials who had also been responsible in the creation of other cultures.
+
+Male Names: Alexander, Sergey, Peter, André, David, Michael
+Female Names: Maria, Anna, Elena, Olga, Catherine, Tatyana
+
+#### Language
+The Homonis' primary language is 
