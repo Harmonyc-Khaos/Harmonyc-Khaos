@@ -4,7 +4,7 @@
 
 An ancestry consists of shared physical traits shared between your character and the ones they descend from, which may be key parts of your character's identity and how they see and integrate with the world around them. A character belongs to a single **Ancestry**, you may choose to play as one of the available options presented below during character creation. Additionally, each ancestry also may possess **heritages** and **traits**. The former includes abilities that are signature to a specific branch of your ancestry and are part of what defines your culture and can be seen as either a gift or a curse by those who inherit them; while the latter describes your ancestry's characteristics, abilities, qualities and flaws. With each ancestry also comes the knowledge on how to speak that ancestry's primary **language**, which can be overwritten by your heritage.
 
-## The Homonis
+# The Homonis
 
 > "Out of the soil, the **Immanis** molded the **Homonis** people, made specifically to be servile so they would allow their creators to feel the joys of being venerated and worshiped. They would spend their first millenniums of existence being nothing more than mere slaves to the deities that had brought them into the world, building the latter's metropolis in the continent that they had been isolated to following the **Clash of the Worlds**, **Vinctora**.
 > 
@@ -20,22 +20,23 @@ An ancestry consists of shared physical traits shared between your character and
 
 The Homonis are ambitious and versatile people with limitless potential. They are mostly found inhabiting the continent of Vinctora as they were originally created by the Immanis within that land but their conquests in the last half-millennium have taken their people to integrate slightly into both Coreus and **Oberona** as well as the many archipelagos found between the two. Due to their short lifespans that are more comparable to **Lowborn** dwellers, they tend to strive to leave big vestiges of their existence in the world during their short window of activity. Thanks to the blessings they received during Revelation, their prowess in controlling **Mana** is on par with a Highborn dweller which can in turn cause some arrogance coming from the Homonis which can cause their own downfall. They tend to make good orators and diplomats as well as many being born natural leaders.
 
-### Traits
-#### Health and Mana
+## Traits
+### Health and Mana
 A Homonis character has an additional 4 **Health Points**. They are some of the most fragile beings in **The New World** and a well placed strike from a dagger is usually enough to end their lives. Like every other being in **Harmonia Chaos**, they have access to Mana which grants them 1 **Mana Point** which they cannot use without the knowledge on how to do so.
 
-#### Stat Increases
+### Stats
+Your movement speed is 9 m/𝐑 (9 meters per round).
 (WIP)
 
-#### Physical Characteristics
+### Physical Characteristics
 The Homonis are bipedal dwellers made of flesh, blood and bones like most. Built to mimic the form of their creators, they possess two arms and have rounded ears but unlike the Immanis, their skin tones only range from a pale white to a dark brown which is a trait that developed over millennia based on how their skin was subjected to the light of the **Great Star**. They achieve physical maturity in their mid to late teen years and live to be as old as about a century.
 
-#### Alignment
+### Alignment
 Due to the influence of **Him** on their species, they are from a young age guided to be **Lawful** and their **Karma** wildly varies from individual to individual, some taking undeniably evil actions for the sake of their duties within the empire while others spread love, compassion and forgiveness even with the dwellers whose faith does not lie with Him. Even so there are some outliers that due to a variety of circumstances are corrupted into becoming some of the most wicked dwellers in existence.
 
 It also bears mentioning that one of the following **heritages** actively goes against the teachings of **Him** and everything that he stands for. This will be discussed in further detail in that heritage's section. 
 
-#### Names
+### Names
 Their forebears, the Immanis, didn't believe in granting names to their creations as a name is a source of power and individuality, which the titans refused to cede to the Homonis. Once they lost their creators, the Homonis started naming each other, if only out of convinience, which led them to learn and pick up the names that their creators once used for themselves, which in turn caused Homonis given names to share traits with all other cultures as the Immanis had gotten their own names from the Primordials who had also been responsible in the creation of other cultures.
 
 Male Names: Alexander, Sergey, Peter, André, David, Michael
@@ -44,8 +45,10 @@ Female Names: Maria, Anna, Elena, Olga, Catherine, Tatyana
 
 Depending on your heritage, you may also inherit a family name which will be described in each heritage's section.
 
-#### Proficiencies
+### Proficiencies
 You gain 5 **Novice** Skill Proficiencies of your choice. Alternatively, you can forego 3 of those **Novice** proficiencies to gain **Expert** proficiency in any skill of your choice instead.
 
-#### Languages
-The Homonis' primary language is **Cengra**, a language taught to them by **Him** which your character has Expert proficiency in if their Intelligence modifier is positive during character creation or Novice if otherwise. Over the generations, Cengra slowly replaced **Alflos**, the language of the Immanis which itself has its roots in **Prima**, as most languages do, however some people, specially **House Chozekiel**, chose to safeguard the knowledge as that language is the gateway to many spells created by the Immanis. As a character from the Homonis people, if during character creation your Intelligence modifier is 2 or higher, you may add Alflos to your known languages at Novice proficiency. 
+### Languages
+The Homonis' primary language is **Cengra**, a language taught to them by **Him** which your character has Expert proficiency in if their Intelligence modifier is positive during character creation or Novice if otherwise. Over the generations, Cengra slowly replaced **Alflos**, the language of the Immanis which itself has its roots in **Prima**, as most languages do, however some people, specially **House Chozekiel**, chose to safeguard the knowledge as that language is the gateway to many spells created by the Immanis. As a character from the Homonis people, if during character creation your Intelligence modifier is 2 or higher, you may add Alflos to your known languages at Novice proficiency.
+
+## Homonis Heritages
