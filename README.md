@@ -71,7 +71,7 @@ The ability gifted to House Kosemiel by Him. It allows them to unlock the power 
 
 At the start of your turn, you may expend 1 Mana to gain a ⬡ token. until the end of the current round. If you are capable of using 3rd-tier skills or cast 3rd-tier or higher spells, you can instead expend 3 Mana to gain a ⬢ token.
 
-You must complete a rest before you  use this feature again.
+You must complete a rest before you use this feature again.
 
 ### House Neviel (The Saintess)
 
