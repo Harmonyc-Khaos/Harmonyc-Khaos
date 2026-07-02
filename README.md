@@ -18,7 +18,7 @@ An ancestry consists of shared physical traits shared between your character and
 > 
 > Half-way into the **Promised Millennium**, the Homonis empire has developed into **The Triumph**, a theocratic nation ruled over by the descendants of the **Twenty Hero Kings** which is both respected and feared by all dwellers of Harmonia Chaos. Their ambitions of conquest have been put on hold as a treaty of peace has been signed between them and the **Kingdom States of Coreus** as both set their sights on the growing threat south of them, **Aeterum**, the land where dwells the children of **Aeterys**, the Primordial of Darkness.
 
-The Homonis are ambitious and versatile people with limitless potential. They are mostly found inhabiting the continent of Vinctora as they were originally created by the Immanis within that land but their conquests in the last half-millennium have taken their people to integrate slightly into both Coreus and **Oberona** as well as the many archipelagos found between the two. Due to their short lifespans that are more comparable to **Lowborn** dwellers, they tend to strive to leave big vestiges of their existence in the world during their short window of activity. Thanks to the blessings they received during Revelation, their prowess in controlling **Mana** is on par with a Highborn dweller which can cause a Homonis to become conceited and lead to their downfall. They tend to make good orators and diplomats as well as many being born natural leaders.
+The Homonis are ambitious and versatile people with limitless potential. They are mostly found inhabiting the continent of Vinctora as they were originally created by the Immanis within that land but their conquests in the last half-millennium have taken their people to integrate slightly into both Coreus and **Oberona** as well as the many archipelagos found between the two. Due to their short lifespans that are more comparable to **Lowborn** dwellers, they tend to strive to leave big vestiges of their existence in the world during their short window of activity. Thanks to the blessings they received during Revelation, their prowess in controlling **Mana** is on par with a Highborn dweller which can cause a Homonis to become conceited and lead to their downfall. They tend to make good orators and diplomats.
 
 ## Traits
 ### Health and Mana
@@ -59,34 +59,84 @@ As a character from the Homonis people, if during character creation your Intell
 The Twenty Hero Kings each established their own houses, granting their newly gifted names to the ones who were part of their respective settlements during Revelation and that joined the chosen ones in their quest to unify all of Vinctora, which eventually developed into the institutions known as **The Great Houses of Vinctora**. Each house has a rich history that goes back centuries to a few decades prior to Revelation even, each representing an aspect considered vital to existence itself. Choose one of the following heritages during character creation:
 
 ### House Kosemiel (The Sage)
-The keepers of knowledge, House Kosemiel owns vast libraries containing incalculable historical value with records that date back before even Revelation that were recovered from many expeditions since the formation of **The Triumph** by the scholars of this house. Progenitors are taught from a young age the importance of knowledge and how learning is the greatest gift bestowed upon the Homonis by Him and that only by the means of education can they evolve as a species.
+The keepers of knowledge, House Kosemiel owns vast libraries containing incalculable historical value with records that date back before even Revelation that were recovered from many expeditions since the formation of **The Triumph** by the scholars of this house. Progenitors are taught from a young age the importance of knowledge and how learning is the greatest gift bestowed upon the Homonis by Him and that only by the means of education can they evolve as a species. Their sigil is ''The Flame of Knowledge'', represented by two hands holding a magic flame as two eyes look forward, capped off by a symbol of infinity hovering above and between the eyes.
 
 People of this house tend to share their appearance with their ancestor, **The First Sage**, with fair androgynous complexions, white hair and eye colors that tend to shift between the primary colors (Red, Yellow and Blue).
 
 If you choose this heritage your **Affinity** becomes **Arcane**.
 
 <ins>**Arcane Foresight**</ins>
-
-The ability gifted to House Kosemiel by Him. It allows them to unlock the power to enhance their perception of time and space in a surge of time, granting them the ability to analyze the situation, draw from their well of knowledge and calculate how they can exploit their current predicament in order to guarantee themselves an advantage that may prove critical to their victory, be it in battle or otherwise.
+The ability gifted to House Kosemiel by Him. It allows them to unlock the power to enhance their perception of time and space in a surge of time, granting them the ability to analyze the situation, draw from their well of knowledge and calculate how they can exploit their current predictament in order to guarantee themselves an advantage that may prove critical to their victory, be it in battle or otherwise.
 
 At the start of your turn, you may expend 1 Mana to gain a ⬡ token. until the end of the current round. If you are capable of using 3rd-tier skills or cast 3rd-tier or higher spells, you can instead expend 3 Mana to gain a ⬢ token.
 
 You must complete a rest before you use this feature again.
 
 ### House Neviel (The Saintess)
+The Neviel family is well-known for producing 
+
+If you choose this heritage your **Affinity** becomes **Water**.
+
+<ins>**Saint Sense**</ins>
+An ability gifted to House Neviel by Him. 
+<ins>**Asperges**</ins>
+An ability gifted to House Neviel by Him. By maintaining physical contact with a source of water, you may transmute that source of water into **blessed water**. You can transmute up to X liters every hour at the rate of.
 
 ### House Malkahiel (The Mother)
+Cunning, social and elegant.
+If you choose this heritage your **Affinity** becomes **Ice**.
+
+<ins>**Gossip Keeper**</ins>
+When you succeed a **Proficiency Test** that uses **Charisma** while engaging with a dweller, you gain favor with the respective dweller that you were interacting with, granting you a +1 bonus on all future **Charisma-based** interactions with that individual. This effect stacks up to a maximum equal to your **Charisma modifier** for each different individual that it is active on. This effect is nullified if you cause that dweller to become hostile towards you. This effect counts as being under a '**Charmed**' **ailment** but it cannot be detected by magic.
 
 ### House Melechiel (The Father)
+Charismatic and Pragmatic.
+If you choose this heritage your **Affinity** becomes **Lightning**.
+
+<ins>**Sovereign's Call**</ins>
+As a ⬢ action, you can grant a number of dwellers (up to your Charisma modifier) bonus to **accuracy**, **damage**, **damage reduction** and **evasion** until the end of their next round. This bonus is equal your **Oration** value.
+
+You must complete a rest before you use this feature again.
 
 ### House Gadoliel (The Advocate)
+Quiet and wise.
+If you choose this heritage your **Affinity** becomes **Nature**.
+
+<ins>**Inspiring Prayer**</ins>
+(WIP) <s>Guidance cantrip. </s>
+During **training**, if you are **tutoring** a proficiency skill to a dweller whose **tier of proficiency** for that skill is lower than yours, they can add your Wisdom modifier to their  rolls (min. 1).
 
 ### House Ahaviel (The Linked)
+Obsessive and charming
+If you choose this heritage your **Affinity** becomes **Life**.
+
+<ins>**Eternal Love**</ins>
+You create a **Vow** between you and another dweller of your choice known as the **Vow of Eternal Love**.
+You choose a target of your affection (consent has to be agreed upon between you and another player character if you choose them); until death of either dweller: damage taken, **conditions**, **permanent injuries** and the effects of **banes** are shared between the both of them and so are skill/spell effects, regaining hit points from any sources and the effects of **boons**.
+
+(WIP) <s>The difficulty of any effect that you have to roll for Charm (that isn't the target of your affection) is halved (rounded up).</s>
 
 ### House Merkaviel (The Gallant)
+Stubborn and loyal
+If you choose this heritage your **Affinity** becomes **Air**.
+
+<ins>**(WIP)**</ins>
 
 ### House Chozekiel (The Strong)
+Menancing but good hearted
+If you choose this heritage your **Affinity** becomes **Earth**.
+
+<ins>**Goliath**</ins>
 
 ### House Bodediel (The Ascetic)
+Timid and avoidant
+If you choose this heritage your **Affinity** becomes **Nature**.
+
+<ins>**Solitude**</ins>
+
 
 ### House Goraliel (The Fate)
+Carefree spirits and aloof.
+If you choose this heritage your **Affinity** becomes **Air**.
+
+<ins>**Twist of Fate**</ins>
