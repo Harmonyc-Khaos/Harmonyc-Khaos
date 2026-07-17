@@ -1,7 +1,7 @@
 title: Harmonyc-Khaos
 description: SRD for the Harmonyc Khaos Table Top Roleplaying Game
 url: "https://harmonyc-khaos.github.io"
-baseurl: "/Harmonyc-Khaos"
+baseurl: "/Harmonyc-Khaos-SRD"
 
 collections:
   chapters:
