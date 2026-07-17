@@ -81,7 +81,7 @@ The Homonis' primary language is **Cengra**, a language taught to them by **Him*
 
  Over the generations, Cengra slowly replaced **Alflos**, the language of the Immanis which itself has its roots in **Prima**, as most languages do, however some people, specially **House Chozekiel**, chose to safeguard the knowledge as that language is the gateway to many spells created by the Immanis.
 
-As a character from the Homonis people, if during character creation your Intelligence 10 or higher, you may add Alflos to your known languages at Novice proficiency.
+As a character from the Homonis people, if during character creation your Intelligence is 10 or higher, you may add Alflos to your known languages at Novice proficiency.
 
 ## Homonis Heritages
 The Twenty Hero Kings each established their own houses, granting their newly gifted names to the ones who were part of their respective settlements during Revelation and that joined the chosen ones in their quest to unify all of Vinctora, which eventually developed into the institutions known as **The Great Houses of Vinctora**. Each house has a rich history that goes back centuries to a few decades prior to Revelation even, each representing an aspect considered vital to existence itself. Choose one of the following heritages during character creation:
