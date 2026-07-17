@@ -56,12 +56,16 @@ In addition to the rules provided by this book, there are a few others items tha
 	- GM Screen which is the term referred to an object that acts as curtain between the GM and the players which can be used on various ocasions to keep the adventure's secrecy.
 	- Music and sound effects to help set the atmosphere.
 	- Digital tools that allow one to make quick searches through the rules.
+
 ## Players 
 "Player" is the term used to refer to the people controlling the player characters, though in truth, the Game Master too is a player of this game. Before the first session is ever run, each player is responsible for creating their character, including their history, personality and using the rules for character creation to realize their concept on a mechanical level. The GM or adventure module may set limitations on which types of characters are allowed in order to maintain narrative consistency. When doing so, the players and GM should maintain a clear communication channel on what each of them expects out of this adventure and things may be tweaked in order to accomodate the wishes of everyone.
 
-During the game, the players are the principal force behind the driving of the narrative, the actions their characters take guiding the plot forward through their descriptions, which is how the GM is able to proccess and initiate the next step of the narrative.
+During the game, the players are the driving force behind the narrative, the actions their characters take guide the plot forward, which is how the GM is able to proccess and initiate the next step of the narrative by in turn attributing them the consquences of their actions.
+
+Each group can have any number of players though some modules will have a range of minimum and maximum players recommended. The Harmonyc Khaos system does not account for solo play (which is the practice of a single person playing a game by themselves) but we encourage anyone that likes that style of play to seek out the many other systems that were developed with that in mind.
 
 Showing interest in the narrative, communicating clearly with the GM and the other players and sharing the spotlight with everyone else during the game are signs of a model player.
+
 ## Game Master
 The "Game Master" or "GM" takes on the role of managing the narrative's core aspects, those being the story and the world.
 (Explain the role of the game master)
